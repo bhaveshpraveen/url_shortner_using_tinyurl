@@ -1,9 +1,3 @@
-Contact info:
-Bhavesh Praveen
-16BCE0904 
-bhavesh.p2016@vitstudent.ac.in
-9789959296
-
 About:
 
 1. This is a url_shortening program
@@ -12,7 +6,7 @@ About:
 4. It requires internet connection
 5. It uses urllib module
 
-Instructions
+Instructions:
 
 1. If you're running the program using the terminal add the links you want to shorten after you mention the python version and the filename
 eg: python3 sample3.py link link link
